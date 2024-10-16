@@ -14,7 +14,7 @@
 
 int	main(int argc, char **argv)
 {
-	std::string	str;
+	std::string	str; // c++ manner
 
 	if (argc < 2)
 		std::cout <<"* LOUD AND UNBEARABLE FEEDBACK NOISE *" <<std::endl;
